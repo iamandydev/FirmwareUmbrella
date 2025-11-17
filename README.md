@@ -4,6 +4,6 @@ Durante la etapa de desarrollo y creación del firmware para la MU1 (Memory Umbr
 
 Posteriormente se inició la creación y desarrollo de una versión que permite realizar pruebas de compatibilidad Bluetooth con el chip ESP32.
 
-Todo esto es visible en las dos ramas del repositorio [#bluetooth-less]  y  [#bluetooth]
+Todo esto es visible en las dos ramas del repositorio #bluetooth-less  y  #bluetooth
 
 Este codigo a sido escrito para la placa de desarrollo *ESP32-CAM AI Thinker*, dado que por tamaño y practicidad se a usado para el desarrollo de la Memory Umbrella One.
