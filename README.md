@@ -1,4 +1,4 @@
-#MU1 Firmware
+# MU1 Firmware
 
 Durante la etapa de desarrollo y creación del firmware para la MU1 (Memory Umbrella One) se crearon dos versiones la versión Bluetooth-less (sin bluetooth), la cual estaba pensada para hacer pruebas rapidas que permitieran ir definiendo las conexiones del circuito electronico y hacer pruebas mientras la app movil aun estaba en sus etapas mas tempranas de desarrollo y aun sin capacidad de establecer una conexión bluetooth real.
 
